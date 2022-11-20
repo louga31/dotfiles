@@ -14,6 +14,7 @@ alias ll="exa --icons --group-directories-first --time-style long-iso -la"
 alias lla="exa --icons --group-directories-first --time-style long-iso -la"
 alias tree="exa --icons --group-directories-first --time-style long-iso -la --tree"
 alias grep='grep --color'
+alias history="history 0"
 
 # Docker aliases
 alias up='docker compose up --build -d'
