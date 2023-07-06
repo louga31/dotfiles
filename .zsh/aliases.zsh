@@ -21,3 +21,7 @@ alias up='docker compose up --build -d'
 alias down='docker compose down --remove-orphans'
 alias logs='docker compose logs -f -t'
 alias attach="docker attach $CONTAINER_NAME"
+
+# Microk8s
+alias kubectl='microk8s kubectl'
+alias helm='microk8s helm'
