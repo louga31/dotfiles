@@ -10,11 +10,9 @@ This Repository **Dotfiles** contain my personal config files. Here you'll find 
 
 To display icons in terminal or applications Fonts, I'm using [Nerd-Fonts](https://www.nerdfonts.com). I'm currently using the **CaskaydiaCove Nerd Font Mono** in terminal applications, and **CaskaydiaCove Nerd Font** in applications.
 
-<!---
+
 ## Other Resources
 
 - [Dotfiles](https://github.com/louga31/dotfiles) - My personal configuration files on Linux and Windows
 - [Boilerplates](https://github.com/louga31/boilerplates) - Templates for various projects like Docker, K8S, Ansible, etc
 - [Cheat-Sheets](https://github.com/louga31/cheat-sheets) - Command Reference for various tools and technologies
-
--->
