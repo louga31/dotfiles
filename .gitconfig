@@ -3,7 +3,7 @@
         name = Quentin Ormancey
 [core]
         editor = nano
-        excludesfile = /home/ubuntu/.gitignore_global
+        excludesfile = /etc/.gitignore_global
 [pull]
         rebase = true
 [init]
